@@ -1,4 +1,4 @@
-## Hi friends. I'm Luke Posey. 
+## Hi friends. I'm Luke Posey. 👋
 
 I spend most of my time working on [Spawner](https://www.spawner.ai), a better way to approach building and maintaining portfolios. 📈 I also work on [Dataset Daily](https://www.datasetdaily.com), a weekly newsletter for data junkies. 📊  
 
