@@ -2,9 +2,9 @@
 
 I'm passionate about practical applications of AI/ML, especially in FinTech. I try to strike a balance between the amount of code I ship and content I create.
 
-📈 I spend my time working on [Spawner](https://www.spawner.ai), a better way to approach building and maintaining portfolios. 
+📊 I spend most of my time these days on [Dataset Daily](https://www.datasetdaily.com), a weekly data newsletter on markets, companies, and industries.
 
-📊 I also work on [Dataset Daily](https://www.datasetdaily.com), a weekly newsletter for data junkies.
+📈 I also spend my time working on [Spawner](https://www.spawner.ai), open data for traders and investors. 
 
 📫 Contact: [Twitter](https://twitter.com/poseysthumbs) | [Medium](https://medium.com/@posey) | [Linkedin](https://www.linkedin.com/in/luke-posey/)
 
